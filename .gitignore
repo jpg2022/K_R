@@ -1,0 +1,61 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Visual Studio Code settings
+.vscode/
+
+# Build directories
+build/
+dist/
+bin/
+Debug/
+Release/
+
+# Logs
+*.log
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# Python cache (if any Python scripts)
+__pycache__/
+*.pyc
